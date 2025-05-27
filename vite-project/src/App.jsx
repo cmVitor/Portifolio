@@ -5,6 +5,8 @@ import Home from './pages/Home'
 import Sobre from './pages/Sobre'
 import Skills from './pages/Skills'
 import Education from './pages/Education'
+import Experience from './pages/Experience'
+import Projects from './pages/Projects'
 
 function App() {
 
@@ -17,6 +19,8 @@ function App() {
         <Route path='/sobre' element={<Sobre />}></Route>
         <Route path='/skills' element={<Skills />}></Route>
         <Route path='/educacao' element={<Education />}></Route>
+        <Route path='/experiencias' element={<Experience />}></Route>
+        <Route path='/projetos' element={<Projects />}></Route>
       </Routes>
 
     </BrowserRouter>
