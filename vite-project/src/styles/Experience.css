@@ -1,0 +1,21 @@
+.experience-section{
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.experience-title{
+    font-size: 2rem;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+.highlight{
+    color: #001fcc;
+}   
+
+.education-logo{
+    border-radius: 25px;
+}
