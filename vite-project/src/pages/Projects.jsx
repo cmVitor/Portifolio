@@ -7,6 +7,7 @@ import project3Img from '../assets/project3.png'
 import project4Img from '../assets/project4.png'
 import project5Img from '../assets/project5.png'
 import project6Img from '../assets/project6.png'
+import project7Img from '../assets/project7.png'
 
 const Projects = () => {
   return (
@@ -38,6 +39,11 @@ const Projects = () => {
           projectName="API restful E-commerce"
           projectImg={project5Img}
           projectLink="https://github.com/cmVitor/API-REST-Ecommerce"
+        />
+        <ProjectCard 
+          projectName="Jogo JUJUs Adventure"
+          projectImg={project7Img}
+          projectLink="https://gd.games/grupo_ux/juju-s-adventure"
         />
     
     </section>

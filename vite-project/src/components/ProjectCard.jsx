@@ -6,7 +6,7 @@ const ProjectCard = ({projectImg, projectName, projectLink}) => {
             <img className='project-img' src={projectImg} alt="imagem do projeto" />
             <div  className="project-description">
                 <h2>{projectName}</h2>
-                <p>Veja o Repositório <i class="fa-solid fa-arrow-up-right-from-square"></i></p>
+                <p>Veja mais  <i class="fa-solid fa-arrow-up-right-from-square"></i></p>
             </div>
             
 
