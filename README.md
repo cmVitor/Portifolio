@@ -1,4 +1,4 @@
-# 💼 Portfólio Pessoal
+# 💼 Portifólio Pessoal
 
 Este é meu portfólio pessoal desenvolvido com [React](https://reactjs.org/) + [Vite](https://vitejs.dev/), com CSS puro para a estilização. Aqui apresento minhas experiências, projetos, habilidades e informações relevantes sobre minha trajetória.
 
