@@ -28,20 +28,20 @@ O site contém as seguintes seções:
 ```bash
 vite-project/
 ├── public/
-    ├── Logo_vitor.png
+|   ├── Logo_vitor.png
 ├── src/
 │   ├── assets/
-        ├── Imagens.png             
+|   |   ├── Imagens.png             
 │   ├── components/ 
-        ├── AboutImage.jsx
-        ├── EducationCard.jsx
-        ├── Header.jsx
-        ├── ProfileImage.jsx
-        ├── ProjectCard.jsx
-        ├── SkillCard.jsx
-        ├── Typewriter.jsx       
+|   |   ├── AboutImage.jsx
+|   |   ├── EducationCard.jsx
+|   |   ├── Header.jsx
+|   |   ├── ProfileImage.jsx
+|   |   ├── ProjectCard.jsx
+|   |   ├── SkillCard.jsx
+|   |   ├── Typewriter.jsx       
 │   ├── data/
-        ├── skills.json               
+|   |   ├── skills.json               
 │   ├── pages/              
 │   │   ├── Education.jsx
 │   │   ├── Experience.jsx
