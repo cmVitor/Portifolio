@@ -78,6 +78,11 @@
     border-radius:100%
 }
 
+.home__icons a:hover {
+    background-color: #8793ff;
+    transform: scale(1.2);
+}
+
 .home__image img {
     width: 400px;
     height: 400px;
