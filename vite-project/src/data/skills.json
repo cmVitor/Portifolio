@@ -1,7 +1,7 @@
 [
     {"name": "ReactJS", "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"},
     {"name": "JavaScript", "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"},
-    {"name": "NodeJS", "icon": "https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"},
+    {"name": "NodeJS", "icon": "https://cdn.hashnode.com/res/hashnode/image/upload/v1703155483443/e42a7be2-890a-4bd2-accf-306e53ccebbd.png"},
     {"name": "ExpressJS", "icon": "https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000"},
     {"name": "HTML", "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"},
     {"name": "CSS", "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"},
@@ -13,8 +13,8 @@
     {"name": "MySQL", "icon": "https://img.icons8.com/color/512/mysql-logo.png"},
     {"name": "MongoDB", "icon": "https://img.icons8.com/color/512/mongodb.png"},
     {"name": "Figma", "icon": "https://img.icons8.com/color/512/figma--v1.png"},
-    {"name": "Notion", "icon": "https://static-00.iconduck.com/assets.00/notion-icon-256x256-g1arps9e.png"},
+    {"name": "Notion", "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png"},
     {"name": "Trello", "icon": "https://images.icon-icons.com/836/PNG/512/Trello_icon-icons.com_66775.png"},
-    {"name": "Isomnia", "icon": "https://static-00.iconduck.com/assets.00/apps-insomnia-icon-2048x2048-2mq9u7v5.png"},
+    {"name": "Isomnia", "icon": "https://res.cloudinary.com/apideck/image/upload/v1570527747/catalog/insomnia-rest/icon128x128.jpg"},
     {"name": "GDevelop", "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyaphbkCJUM9LCffdmOa2kSgEg4R3cHQ-Jg&s"}
 ]
